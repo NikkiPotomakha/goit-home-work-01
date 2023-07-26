@@ -1,0 +1,25 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+:root {
+    --iris: #4D5AE5;
+    --ocean: #404BBF;
+    --navyblue: #2e2f42;
+    --slate: #434455;
+    --white: #FFFFFF;
+    --cloud: #F4F4fd;
+}
+
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
