@@ -115,19 +115,9 @@ body {
 .section-1-tittle {
   background-color: #2e2f42;
 }
-.hero-button:hover,
-.hero-button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
-}
-.top {
-  color: #2e2f42;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
 }
 .sub-hdr {
   color: #2e2f42;
@@ -151,6 +141,7 @@ body {
 .team-card-1 {
   color: var(--slate);
   text-align: center;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -177,6 +168,7 @@ body {
 }
 .text-footer {
   color: #f4f4fd;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
