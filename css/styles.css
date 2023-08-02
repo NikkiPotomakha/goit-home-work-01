@@ -53,6 +53,7 @@ body {
   text-decoration: none;
 }
 .nav-menu {
+  font-family: "Roboto", sans-serif;
   color: var(--navy-blue);
   font-size: 16px;
   font-style: normal;
@@ -67,12 +68,21 @@ body {
 .address {
   font-style: normal;
 }
-.reference {
+.contact-list {
+  font-family: "Roboto", sans-serif;
+  color: var(--slate);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.reference-hdr {
   color: #434455;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .reference:hover,
@@ -88,6 +98,9 @@ body {
   line-height: 60px;
   letter-spacing: 1.12px;
   text-align: center;
+}
+.section-1 {
+  background-color: #2e2f42;
 }
 .button {
   color: #ffffff;
@@ -136,10 +149,11 @@ body {
   text-decoration: none;
 }
 .subtitle {
+  font-family: "Roboto", sans-serif;
   color: #2e2f42;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   line-height: 1.2;
   letter-spacing: 0.04em;
 }
